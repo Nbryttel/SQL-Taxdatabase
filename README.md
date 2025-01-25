@@ -157,7 +157,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/SQL-Tax-Expense-Schema.git
+   git clone https://github.com/<Nbryttel>/SQL-Tax-Expense-Schema.git
  ```
 
 
