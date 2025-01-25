@@ -2,7 +2,7 @@
 
 A database schema for managing tax-related expenses.
 
-![github prezent](https://github.com/user-attachments/assets/7b4b7a75-cc2f-4a65-8785-129d7cc99f06)
+![github prezent](https://github.com/user-attachments/assets/c3372657-ea3a-442d-ba43-8561987e4b7a)
 
 
 ## Overview
@@ -38,7 +38,8 @@ As a data analyst, I applied the following skills:
 - Breakdown of costs by location and event type.
 - Trends in business vs. personal travel costs.
 
-![code i yoytube (1)](https://github.com/user-attachments/assets/90416286-e408-4320-a7fc-622c1eac0713)
+
+![code i yoytube (1)](https://github.com/user-attachments/assets/d2f7c661-5379-4546-b50c-7b19b6b1c74c)
 
 
 ## Check Live Data Analysis Recording 
@@ -121,13 +122,16 @@ GROUP BY
 ## Visual Dashboards
 Setting up dashboards:
 
-![Screenshot 2024-12-30 195913](https://github.com/user-attachments/assets/b506c4e9-d72a-4877-9b20-2e2e56cae858)
+![Copy of Copy of cover UX FTI (35)](https://github.com/user-attachments/assets/4c845a93-7973-4d6a-942a-0df4e45cf9a5)
 
-![join](https://github.com/user-attachments/assets/101b8a34-abfc-4689-87d1-e8f11442eed0)
+![join](https://github.com/user-attachments/assets/23ca7a02-785a-44ff-91db-e07871bf4237)
+
+
 
 Below is an example of the Tableau dashboard showcasing:
 
-![wykres_portfolio](https://github.com/user-attachments/assets/3a93b30e-a99c-475b-811b-4c5bf17620a8)
+![wykres](https://github.com/user-attachments/assets/c9fc5643-09d8-4dac-9377-ee8871c0c5bc)
+
 
 Total expenses by year and event type.
 Interactive filters for country, event type, and date.
