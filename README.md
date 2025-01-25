@@ -151,7 +151,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - Create the database schema: Set up all tables, constraints, and relationships.
 - Populate the tables with sample data (if provided).
 4. Analyze the data:
-- Use the provided SQL queries (Nbryttel) or write your own to:
+- Use the provided SQL queries (above: "Sample Query 2") or write your own to:
 - Retrieve insights (e.g., travel expenses by month).
 - Perform advanced analysis for reporting purposes.
 
