@@ -144,7 +144,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## How to Use
 1. Clone the repository.
-2. Open the SQL script [setup_taxdatabase.sql](./setup_taxdatabase.sql) in your preferred SQL environment, such as:
+2. Open the SQL script [taxdatabase](./database_script.sql) in your preferred SQL environment, such as:
 - Azure Data Studio
 - SQL Server Management Studio (SSMS)
 3. Execute the scripts to:
