@@ -149,7 +149,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - SQL Server Management Studio (SSMS)
 3. Execute the scripts to:
 - Create the database schema: Set up all tables, constraints, and relationships.
-- Populate the tables with sample data (you can use: seed_data_taxdatabase.sql)
+- Populate the tables with sample data (you can use: [taxdatabase](./seed_data.sql))
 4. Analyze the data:
 - Use the provided SQL queries (above: "Sample Query 2") or write your own to:
 - Retrieve insights (e.g., travel expenses by month).
